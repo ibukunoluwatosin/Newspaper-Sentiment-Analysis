@@ -9,4 +9,4 @@ I scraped news headlines and their publishing dates from _http://www.nigeria70.c
 
 The data is approximately 50,000 headlines each.
 
- Employing NLP methods such as ngram analysis, sentiment analysis leveraging the tidytext and sentimentr packages, I analyzed for bias and change in sentiment & rhetoric in Nigerian media reporting for politics between the last two tenures.
+ Employing NLP methods such as ngram analysis, sentiment analysis and leveraging relevant packages such as the tidytext and sentimentr packages, I analyzed for bias and change in sentiment & rhetoric in Nigerian media reporting for politics between the last two tenures.
